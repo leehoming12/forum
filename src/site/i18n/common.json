@@ -1,0 +1,12 @@
+{
+  "en": {
+    "pages": {
+      "notFound": "Page Not Found"
+    }
+  },
+  "zh-hant": {
+    "pages": {
+      "notFound": "找不到頁面"
+    }
+  }
+}

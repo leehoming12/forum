@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "maxNodeModuleJsDepth": 1,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "jsx": "react",
+    "allowJs": true,
+    "checkJs": false,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "downlevelIteration": true,
+    "moduleSuffixes": [".web", ""],
+    "paths": {
+      "~/*": ["./src/*"]
+    },
+    "outDir": "./dist"
+  },
+  "exclude":[
+    "**/dist/*",
+    "**/node_modules/*"
+  ],
+  "include": [
+    "src/**/*"
+  ]
+}

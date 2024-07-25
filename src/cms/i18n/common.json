@@ -1,0 +1,30 @@
+{
+  "en": {
+    "pages": {
+      "notFound": "Page Not Found",
+      "errorPage": "Something get wrong.",
+      "noAccessRight": "You don't have permission to access CMS",
+      "userBasicInfo": "Basic Info",
+      "userSecurity": "Security",
+      "confirmPasswordNotMatch": "Confirm Password does not match"
+    },
+    "commons": {
+      "pageCreateTitle": "Create $t({{title}})",
+      "pageEditTitle": "Edit $t({{title}})"
+    }
+  },
+  "zh-hant": {
+    "pages": {
+      "notFound": "找不到頁面",
+      "errorPage": "出問題了。",
+      "noAccessRight": "你沒有權限使用CMS",
+      "userBasicInfo": "基本資料",
+      "userSecurity": "保安",
+      "confirmPasswordNotMatch": "確認密碼不匹配"
+    },
+    "commons": {
+      "pageCreateTitle": "新增 $t({{title}})",
+      "pageEditTitle": "編輯 $t({{title}})"
+    }
+  }
+}
